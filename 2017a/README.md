@@ -24,15 +24,16 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
 ## Actividades
 * Nombre y código de todos los integrantes del grupo (máximo 3) (5%)
 * Ortografía y redacción (5%)
-* Sistema operativo Ubuntu Server 16.04 (10%)
+* Descripción breve de los pasos para cumplir con lo solicitado
+  * Sistema operativo Ubuntu Server 16.04 (10%)
   * Configuración de interfaces de red (10%)
   * Configuración de puertos (10%)
   * Instalación de dependencias (10%)
   * Creación de ambientes virtuales (10%)
   * Aplicación en Python (10%)
   * Validación de la ejecución del servicio (netstat) (10%)
-* Repositorio en github con código fuente y archivo README.md con las indicaciones para la configuración de Ubuntu Server 16.04 y el despliegue de la aplicación. Incluir capturas de pantalla donde evidencie que cumple con lo solicitado (10%)
-* Archivo en README.md en PDF enviado a través de moodle (10%)
+* Pruebas de la solución a través de capturas de pantalla. Puede emplear si lo desea una herramienta de captura de pantalla a formato .gif (10%)
+* El informe debe ser entregado en formato pdf a través del moodle y el informe en formato README.md debe ser subido a un repositorio de github. El repositorio de github debe ser un fork de https://github.com/ICESI-Training/so-project y para la entrega deberá hacer un Pull Request (PR) respetando la estructura definida. El código fuente y la url de github deben incluirse en el informe (10%).
 
 ## Referencias
 * https://www.ubuntu.com/download/server
