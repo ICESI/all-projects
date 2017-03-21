@@ -15,7 +15,7 @@ aplicación en Linux
 ## Descripción
 Para el despliegue de una aplicación en un servidor se requiere conocer los procedimientos necesarios relacionados con la configuracion de las interfaces de red, ajustes de seguridad, instalación de dependencias, usuarios y herramientas de depuracíon del sistema operativo.
 
-El siguiente proyecto consiste en el despliegue de una aplicación web para obtener información del sistema operativo (Deberá emplear la aplicación desarrollada en el primer parcial). Para este propósito se debe emplear el sistema operativo Ubuntu Server 16.04, el microframework flask y ambientes virtuales.
+El siguiente proyecto consiste en el despliegue de una aplicación web para obtener información del sistema operativo (Deberá emplear la aplicación desarrollada en el segundo parcial). Para este propósito se debe emplear el sistema operativo Ubuntu Server 16.04, el microframework flask y ambientes virtuales.
 
 <p align="center">
   <img src="images/vista-despliegue.png" alt="webservice architecture"/>
