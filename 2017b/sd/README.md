@@ -41,15 +41,17 @@ Plantee e implemente una estrategia para el monitoreo de los contenedores (Pods)
 7. Documente algunos de los problemas encontrados y las acciones efectuadas para su solución al aprovisionar la infraestructura y aplicaciones (10%)
 
 ### Referencias
-http://labs.play-with-k8s.com/
-https://kubernetes.io/docs/setup/independent/install-kubeadm/
-https://kubernetes.io/docs/user-guide/walkthrough/k8s201/
-https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
-https://kubernetes.io/docs/tasks/access-application-cluster/list-all-running-container-images/ https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/ https://kubernetes.io/docs/tutorials/kubernetes-basics/explore-intro/
-https://kubernetes.io/docs/user-guide/walkthrough/
-https://kubernetes.io/docs/tutorials/stateless-application/hello-minikube/
-https://github.com/kubernetes/kops
-https://github.com/kubernetes/minikube/releases
-https://github.com/kubernetes/community/blob/master/contributors/design-proposals/README.md
-https://github.com/kubernetes/kubeadm/issues/42
+http://labs.play-with-k8s.com/  
+https://kubernetes.io/docs/setup/independent/install-kubeadm/  
+https://kubernetes.io/docs/user-guide/walkthrough/k8s201/  
+https://kubernetes.io/docs/concepts/workloads/controllers/deployment/  
+https://kubernetes.io/docs/tasks/access-application-cluster/list-all-running-container-images/  
+https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/  
+https://kubernetes.io/docs/tutorials/kubernetes-basics/explore-intro/  
+https://kubernetes.io/docs/user-guide/walkthrough/  
+https://kubernetes.io/docs/tutorials/stateless-application/hello-minikube/  
+https://github.com/kubernetes/kops  
+https://github.com/kubernetes/minikube/releases  
+https://github.com/kubernetes/community/blob/master/contributors/design-proposals/README.md  
+https://github.com/kubernetes/kubeadm/issues/42  
 https://damyanon.net/post/flask-series-logging/
