@@ -15,7 +15,7 @@
 Deberá realizar el despliegue de dos servidores web y un balanceador de carga por medio de contenedores LXC/LXD.
 Puede elegir el sistema operativo a emplear para la máquina virtual y los contenedores, se sugiere Ubuntu 16.04.4 LTS (xenial).
 
-![][1]
+![][1]  
 **Figura 1.** Esquema básico para el despliegue
 
 ## Actividades
@@ -53,14 +53,14 @@ para balanceo de carga (10%)
   * Por medio de pyxld cree una aplicación de consola que permita la creación y eliminación de contenedores, tenga en cuenta
 realizar los cambios necesarios en los archivos de configuración de los contenedores para permitir el acceso remoto por ssh
 * Preguntas ramdom: (?%)
-  * Al reiniciar la máquina virtual en que estado quedan los contenedores? (0%)
+  * Al reiniciar la máquina virtual en que estado quedan los contenedores?
 
 ## Recomendaciones
 * Puede incluir como evidencias de lo realizado capturas de pantalla o la salida del comando en formato markdown
 * Cuando realice los cambios sobre los recursos hardware asignados a cada servicio puede realizar la validación a través de algunos de los siguientes comandos:
   * watch free -h
   * top (presionando la tecla h obtendrá una ayuda con opciones)
-  * En lo posible use zsh/tmux
+* En lo posible use zsh/tmux
 
 ## Referencias
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-and-use-lxd-on-ubuntu-16-04
