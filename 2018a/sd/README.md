@@ -31,8 +31,7 @@ La especificación del servicio debe mapear un puerto de cada pod a un balancead
 * Plantee e implemente una estrategia para la automatización de la conexión a través de tokens
 
 **Nota**
-* No se requiere que incluya archivos de la automatización del cluster o infraestructura base.
-* El empleo de tecnologías de automatización para la infraestructura base es a consideración del estudiante
+* No se requiere que incluya archivos de la automatización del cluster o infraestructura base. El empleo de tecnologías de automatización para la infraestructura base es a consideración del estudiante
 
 ### Actividades
 1. Documento en formato PDF:  
