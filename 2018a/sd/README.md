@@ -14,7 +14,7 @@ de volumenes persistentes, balanceo de carga y descubrimiento de servicio
 * Diagnosticar y ejecutar de forma autónoma las acciones necesarias para lograr infraestructuras estables
 
 ### Prerrequisitos
-* Computador personal, Sala de computo
+* Cluster de Kubernetes
 
 ### Descripción
 Debera realizar el despliegue de un cluster de kubernetes en al menos tres nodos independientes (un nodo maestro y al menos dos nodos de trabajo). Para ello realice la instalación y configuración de las dependencias necesarias (kubeadm, kubectl, kubelet), y el despliegue de los pods de red necesarios para la comunicación. Todo el proceso debera ser debidamente documentado
